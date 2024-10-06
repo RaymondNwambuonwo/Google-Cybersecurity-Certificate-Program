@@ -1,8 +1,10 @@
-# Google Cybersecurity Professional Certificate
+# Google Cybersecurity Certificate Program
 
-Certificate of completion for Google Cybersecurity Professional Certificate for Raymond Nwambuonwo
+Certificate of completion for Google Cybersecurity Certificate Program for Raymond Nwambuonwo
 
-This repo holds all of the projects, notes, and write-ups I have done while completing the Google Cybersecurity Professional Certificate (insert Image from Google Cybersecurity Certificate Completion)
+This repo holds all of the projects I have done while completing the Google Cybersecurity Certificate Program. To view my notes repository please click here
+
+(insert Image from Google Cybersecurity Certificate Completion)
 
 You can view my certificate of completion on Credly or Coursera.
 
