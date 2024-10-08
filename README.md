@@ -1,6 +1,6 @@
 # Google Cybersecurity Certificate Program
 
-Certificate of completion for Google Cybersecurity Certificate Program for Raymond Nwambuonwo
+Google Cybersecurity Certificate Program for Raymond Nwambuonwo
 
 This repo holds all of the projects I have done so far while completing the Google Cybersecurity Certificate Program.
 
