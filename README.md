@@ -2,13 +2,9 @@
 
 Certificate of completion for Google Cybersecurity Certificate Program for Raymond Nwambuonwo
 
-This repo holds all of the projects I have done while completing the Google Cybersecurity Certificate Program. To view my notes repository please click here
+This repo holds all of the projects I have done so far while completing the Google Cybersecurity Certificate Program.
 
-(insert Image from Google Cybersecurity Certificate Completion)
-
-You can view my certificate of completion on Credly or Coursera.
-
-In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers.
+In this course I am gaining foundational knowledge that will build upon my software engineering experience and expertise to then transition into security focused roles.
 
 This program focused on many conceptual topics such as:
 
